@@ -92,11 +92,6 @@ streamlit run app.py
 
 ## 🧙 Team Hackwarts Founders
 
-* Himani Uppal
-* Vandita Nandal
-* Rohit Korpal
-* Yash Raj
-
 Proud wizards behind the magic ✨
 
 ---
