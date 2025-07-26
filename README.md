@@ -52,27 +52,3 @@
 ├── BG1.jpg                 # Optional local background image (or use online)
 ├── requirements.txt        # All Python dependencies
 ├── README.md               # You're reading it now 😉
-
-
-
-⚙️ How to Run Locally
-bash
-Copy
-Edit
-# 1. Clone the repository
-git clone https://github.com/your-username/magical-traffic-optimizer.git
-
-# 2. Move into the directory
-cd magical-traffic-optimizer
-
-# 3. Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-# 4. Install dependencies
-pip install -r requirements.txt
-
-# 5. Run the app
-streamlit run app.py
-👨‍🎓 Team Hackwarts Founders
-🧙‍♀️ Himani Uppal (Frontend Magic + Streamlit UI)
