@@ -4,12 +4,11 @@ import tempfile
 from ultralytics import YOLO
 from datetime import datetime
 import numpy as np
-import os
-os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
+
 
 
 # Load YOLO model
-yolo_model = YOLO("yolov8n.pt")  # YOLOv8n is much smaller (~5MB)
+yolo_model = YOLO("yolov8m.pt")  
 vehicle_ids = [2, 3, 5, 7]  # car, motorcycle, bus, truck
 
 # Streamlit Page Config
