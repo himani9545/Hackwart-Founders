@@ -88,7 +88,9 @@ streamlit run app.py
 ## 🧙 Team Hackwarts Founders
 
 * Himani Uppal
-* \[Add your teammates’ names here]
+* Vandita Nandal
+* Rohit Korpal
+* Yash Raj
 
 Proud wizards behind the magic ✨
 
@@ -108,12 +110,4 @@ Proud wizards behind the magic ✨
 
 ```
 
----
 
-Let me know if you'd like:
-- A `.md` file download
-- README with images/GIFs
-- Custom badges (like "Made with ❤️ in Hogwarts", etc.)
-
-You're all set to charm the judges! 🪄🚦
-```
