@@ -9,7 +9,7 @@ os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
 
 # Load YOLO model
-yolo_model = YOLO("yolov8m.pt")
+yolo_model = YOLO("yolov8n.pt")  # YOLOv8n is much smaller (~5MB)
 vehicle_ids = [2, 3, 5, 7]  # car, motorcycle, bus, truck
 
 # Streamlit Page Config
