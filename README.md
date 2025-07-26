@@ -18,6 +18,11 @@
 
 ---
 
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/06dccccb-4034-422f-a66b-a2de537ae6ba" />
+
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/e66bc6b5-a8c1-4e62-a45c-96a02e37dd3e" />
+
+
 ## 🧪 Tech Stack Used
 
 | Magic Tool      | Muggle Equivalent 🔍        |
@@ -38,6 +43,9 @@
 5. Rest lanes receive the **"Expelliarmus" STOP Signal** 🔴
 
 ---
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/ad371175-8970-4fa1-ad19-fbf7c8e9a420" />
+
 
 ## 🌟 UI Highlights
 
