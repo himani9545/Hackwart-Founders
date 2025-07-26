@@ -8,6 +8,10 @@
 
 ---
 
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/a8ca298e-efd3-4e4f-a53e-b7268f38d5a8" />
+
+
 ## 🧠 What It Does
 
 🧙 Magical Traffic Optimizer uses **AI (YOLOv8)** to analyze real-time traffic from 4 different lanes (North, East, South, West) and **automatically chooses the lane that deserves the green signal** — all through the lens of magic and machine learning!
