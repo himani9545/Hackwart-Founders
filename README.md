@@ -47,10 +47,15 @@
 ## 📂 File Structure
 
 bash
+
 ├── app.py                  # Streamlit UI (Main file)
+
 ├── yolov8m.pt              # YOLOv8 model (required)
+
 ├── BG1.jpg                 # Optional local background image (or use online)
+
 ├── requirements.txt        # All Python dependencies
+
 ├── README.md               # You're reading it now 😉
 
 
